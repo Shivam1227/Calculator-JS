@@ -1,0 +1,14 @@
+.Heading{
+    text-align: center;
+}
+
+.buttons{
+    margin: auto;
+    align-items: center;
+}
+
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
