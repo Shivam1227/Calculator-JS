@@ -7,5 +7,5 @@ Open index.html or run with a static server.
 ## Features
 - mouse input
 - π support
-- clear(C)(Backsave), all clear(AC)
+- clear(C)(Backspace), all clear(AC)
 - try/catch error detection in input
